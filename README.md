@@ -1,2 +1,0 @@
-# MobileReacteCommerce
-Created with CodeSandbox
