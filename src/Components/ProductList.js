@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Product from "./Product";
 import Title from "./Title";
 import { ProductConsumer } from "../context";
+
 class ProductList extends Component {
   render() {
     return (
@@ -20,7 +21,6 @@ class ProductList extends Component {
             </div>
           </div>
         </div>
-        <Product />
       </React.Fragment>
     );
   }
