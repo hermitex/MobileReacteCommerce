@@ -1,6 +1,6 @@
 import React from "react";
 import { Switch, Route } from "react-router-dom";
-import logo from "./logo.svg";
+
 import "./styles.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "emmet";

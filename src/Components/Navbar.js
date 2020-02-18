@@ -10,6 +10,7 @@ class Navbar extends Component {
     this.state = {};
   }
   render() {
+    console.log(`logo ${logo}`);
     return (
       <div>
         <NavWrapper className="navbar navbar-expand-sm  navbar-dark px-sm-5">
